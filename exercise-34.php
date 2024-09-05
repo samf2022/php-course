@@ -8,7 +8,7 @@
 <body>
     <form action="exercise-34-1.php" method="POST">
         <label for="number">Number</label>
-        <input min="1" type="number" name="number" id="number">
+        <input required min="1" type="number" name="number" id="number">
 
         <button type="submit">Submit</button>
     </form>
