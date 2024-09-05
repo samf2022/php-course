@@ -21,6 +21,7 @@
         <br>
         <button type="submit">Submit</button>
     </form>
+    <h4>Go back to <a href="../index.php">Menu</a></h4>
 </body>
 <?php
 
