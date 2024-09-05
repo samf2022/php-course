@@ -17,7 +17,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Exercise 30-1</title>
 </head>
 <body>
     <h1><?= compareStrings($compare) ?></h1>
