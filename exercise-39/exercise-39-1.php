@@ -18,6 +18,6 @@
 </head>
 <body>
     <h1><?= showCountry($selected_country) ?></h1>
-    <h4>Go back to <a href="exercise-39.php">Exercise 39</a></h4>
+    <h4>Go back to <a href="index.php">Exercise 39</a></h4>
 </body>
 </html>

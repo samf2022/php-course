@@ -29,6 +29,6 @@ function calculatePerfectNumber($number) {
 </head>
 <body>
 <h1><?= calculatePerfectNumber($number) ?></h1>
-<h4>Go back to <a href="exercise-34.php">Exercise 34</a></h4>
+<h4>Go back to <a href="index.php">Exercise 34</a></h4>
 </body>
 </html>

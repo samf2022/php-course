@@ -16,6 +16,6 @@ $number = $_POST['number'];
         }
     }
 ?>
-<h4>Go back to <a href="exercise-37.php">Exercise 37</a></h4>
+<h4>Go back to <a href="index.php">Exercise 37</a></h4>
 </body>
 </html>

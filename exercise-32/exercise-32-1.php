@@ -23,6 +23,6 @@
 </head>
 <body>
     <h1><?= determineSeason($day, $month) ?></h1>
-    <h4>Go back to <a href="exercise-32.php">Exercise 32</a></h4>
+    <h4>Go back to <a href="index.php">Exercise 32</a></h4>
 </body>
 </html>

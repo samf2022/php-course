@@ -24,6 +24,6 @@ function equilateralTriangle($height) {
 </head>
 <body>
  <?= equilateralTriangle($height) ?>
- <h4>Go back to <a href="exercise-38.php">Exercise 38</a></h4>
+ <h4>Go back to <a href="index.php">Exercise 38</a></h4>
 </body>
 </html>

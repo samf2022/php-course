@@ -19,6 +19,6 @@
         "The result date is " . $resultDate->format('Y-m-d') . "\n"
     ?>
 </h1>
-<h4>Go back to <a href="exercise-35.php">Exercise 35</a></h4>
+<h4>Go back to <a href="index.php">Exercise 35</a></h4>
 </body>
 </html>

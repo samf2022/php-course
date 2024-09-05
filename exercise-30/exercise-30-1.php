@@ -21,6 +21,6 @@
 </head>
 <body>
     <h1><?= compareStrings($compare) ?></h1>
-    <h4>Go back to <a href="exercise-30.php">Exercise 30</a></h4>
+    <h4>Go back to <a href="index.php">Exercise 30</a></h4>
 </body>
 </html>

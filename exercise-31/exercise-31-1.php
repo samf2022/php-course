@@ -20,6 +20,6 @@
 </head>
 <body>
     <h1>Between <?= $format_date_one ?> and <?= $format_date_two ?> there are <?= calculateDays($date_one, $date_two) ?> days</h1>
-    <h4>Go back to <a href="exercise-31.php">Exercise 31</a></h4>
+    <h4>Go back to <a href="index.php">Exercise 31</a></h4>
 </body>
 </html>
