@@ -20,6 +20,6 @@ function determineWeekend($week_day) {
 </head>
 <body>
     <h1><?=determineWeekend($week_day)?></h1>
-    <h4>Go back to <a href="exercise-33.php">Exercise 33</a></h4>
+    <h4>Go back to <a href="index.php">Exercise 33</a></h4>
 </body>
 </html>
