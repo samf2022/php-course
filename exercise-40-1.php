@@ -12,7 +12,7 @@ function joinElements($color, $number){
         }
     }
     return $join;
-    
+
 }
 
 ?>
@@ -25,5 +25,6 @@ function joinElements($color, $number){
 </head>
 <body>
     <h3><?= joinElements($color, $number) ?></h3>
+    <h4>Go back to <a href="exercise-40.php">Exercise 40</a></h4>
 </body>
 </html>
